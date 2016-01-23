@@ -1,0 +1,22 @@
+{
+  "name": "graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graph.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhuripatil06/graphs.git"
+  },
+  "author": "madhuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhuripatil06/graphs/issues"
+  },
+  "homepage": "https://github.com/madhuripatil06/graphs#readme",
+  "dependencies": {
+    "mocha": "^2.3.4"
+  }
+}
