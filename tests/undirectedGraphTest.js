@@ -90,7 +90,6 @@ describe("paths",function(){
 		g.addEdge('D','E');
 
 		var path=g.pathBetween('A','E')
-
 		assert.equal(4,path.length);
 		assert.deepEqual(['A','B','D','E'],path);
 	});
